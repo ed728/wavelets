@@ -1,0 +1,2 @@
+# wavelets
+Wavelet transform playbooks
